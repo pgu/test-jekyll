@@ -16,3 +16,6 @@ mais quel fucker!
 this isn't `bundle update github-pages` we need to do but `bundle update`.
 
 
+- GH pages public even for private repo?
+- access to GH pages? -> it looks like no more. no access, so no download of what is generated (_site).
+- use custom theme: yes, with remote-theme
